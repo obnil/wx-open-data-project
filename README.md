@@ -3,22 +3,22 @@
 
 8bit像素画制作（http://www.lizibuluo.com/8bit/#what）
 
-![fighting](..\wx-open-data-project\screenshots\logo1.png)
+![fighting](https://github.com/obnil/wx-open-data-project/blob/master/screenshots/logo1.png)
 
 游戏截图
 
-![游戏截图](..\wx-open-data-project\screenshots\dsBuffer.png)
+![游戏截图](https://github.com/obnil/wx-open-data-project/blob/master/screenshots/dsBuffer.png)
 
 主工程
 
-![主工程构建发布](..\wx-open-data-project\screenshots\main.png)
+![主工程构建发布](https://github.com/obnil/wx-open-data-project/blob/master/screenshots/main.PNG)
 
 
 
 微信开放数据域 子工程
 
-![微信开放数据域 子工程](..\wx-open-data-project\screenshots\wx_open_data.png)
+![微信开放数据域 子工程](https://github.com/obnil/wx-open-data-project/blob/master/screenshots/wx_open_data.PNG)
 
 微信开发者工具目录
 
-![微信开发者工具目录](..\wx-open-data-project\screenshots\wx_shot.png)
+![微信开发者工具目录](https://github.com/obnil/wx-open-data-project/blob/master/screenshots/wx_shot.PNG)
