@@ -110,7 +110,7 @@ cc.Class({
         var oneDayTime = 1000 * 60 * 60 * 24;
         var old_count = parseInt(+old / oneDayTime);
         var now_other = parseInt(+now / oneDayTime);
-        return parseInt((old_count + 4) / 7) == parseInt((now_other + 4) / 7);
+        return parseInt((old_count + 3) / 7) == parseInt((now_other + 3) / 7);
     },
 
     initFriendInfo(type) {
